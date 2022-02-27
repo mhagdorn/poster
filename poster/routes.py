@@ -12,7 +12,8 @@ def index():
     form = DataForm()
 
     if form.validate_on_submit():
-        session['spinalPoint'] = form.spinalPoint.data
+        session['years'] = form.years.data
+        session['income'] = form.income.data
 
         return redirect(url_for('result'))
 
@@ -21,6 +22,10 @@ def index():
 
 @app.route('/result')
 def result():
-    if 'spinalPoint' not in session:
-        return redirect(url_for('index'))
-    return render_template('result.html', spinalPoint=session['spinalPoint'])
+    for field in ['years', 'income']:
+        if field not in session:
+            print(f'error {field}')
+            return redirect(url_for('index'))
+    return render_template(
+        'result.html', years=session['years'],
+        income=session['income'])
