@@ -2,4 +2,14 @@
 
 {% block content %}
 <h1>Hello, World</h1>
+
+<form action="{{ url_for('index') }}" enctype="multipart/form-data" method="POST">
+  {{ form.csrf_token }}
+
+  <label>Spinal Point</label>
+  <input type="integer" name="spinalPoint">
+  {% for error in form.spinalPoint.errors %}
+  <small class="text-danger">{{ error }}</small>  
+  {% endfor %}
+  
 {% endblock %}
