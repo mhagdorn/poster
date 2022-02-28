@@ -1,26 +1,49 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Hello, World</h1>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Edinburgh Pay Modeller</title>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>UUK Pay Modeller</h1>
+  <h3>Since 2009 the University of Edinburgh has doubled its profits and grown substantially...</h3>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3><b> Numbers</b></h3>
+      <p>Student numbers are up by 60%</p>
+    </div>
+    <div class="col-sm-4">
+      <h3><b>Fees</b></h3>
+      <p>Student fees have risen massively (up from £1,820 to £9,250 a year for UK students; £11,050 to £19,800
+        for international students)</p>
+    </div>
+    <div class="col-sm-4">
+      <h3><b>Profit</b></h3>        
+      <p>Income from tuition fees has tripled and profit per student is 50% higher</p>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center">
+  <h2>Meanwhile</h2>
+  <h3>In the same period</h3>
+  <h3>What has happened to your pay?</h3>
+  <h3>Use our super fancy pay modeller to find out!</h3>
 <form action="{{ url_for('index') }}" enctype="multipart/form-data" method="POST">
   {{ form.csrf_token }}
 
-  <label>years of service</label>
-  <input type="integer" name="years">
-  {% for error in form.years.errors %}
+  <label>Spinal Point</label>
+  <input type="integer" name="spinalPoint">
+  {% for error in form.spinalPoint.errors %}
   <small class="text-danger">{{ error }}</small>  
   {% endfor %}
-
-  <br>
-  
-  <label>income</label>
-  <input type="integer" name="income">
-  {% for error in form.income.errors %}
-  <small class="text-danger">{{ error }}</small>
-  {% endfor %}
-
-  <button class="btn btn-primary">Submit</button>
-
   
 {% endblock %}
+
+</body>
+</html>
