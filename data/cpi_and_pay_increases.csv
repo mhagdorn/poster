@@ -1,4 +1,4 @@
-year,cpi,pay_increase
+year,cpi,pay_increase,adj_salary,salary_diff
 2009,2,0.5
 2010,2.5,0.4
 2011,3.8,0

@@ -11,12 +11,18 @@ def compound(timeseries, year):
 def cummulative(timeseries, year, salary):
     total = 0.
     c = 1.
-    timeseries = timeseries.sort_values(by=['year']).loc[year:]
+    adj_salary = []
+    salary_diff = []
+    timeseries = timeseries.sort_values(by=['year'])
+    #timeseries = timeseries.sort_values(by=['year']).loc[year:]
     for index, row in timeseries.iterrows():
         c = c*(1+row['cpi']/100)
-        #print(c, c*salary-salary)
-        total = total + salary*(c-1)
-        #print(total)
+        print(c, c*salary-salary)
+        adj_salary.append(salary*(1+row['pay_increase']/100))
+        salary_diff.append(salary*(c-1))
+    timeseries['salary_diff'] = salary_diff
+    timeseries['adj_salary'] = adj_salary
+    total = timeseries.loc[year:]['salary_diff'].sum()
     return total
 
 if __name__ == '__main__':
