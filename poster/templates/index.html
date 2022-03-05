@@ -1,14 +1,6 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Edinburgh Pay Modeller</title>
-</head>
-<body>
-
 <div class="jumbotron text-center">
   <h1>UUK Pay Modeller</h1>
   <h3>Since 2009 the University of Edinburgh has doubled its profits and grown substantially...</h3>
@@ -38,18 +30,18 @@
   {{ form.csrf_token }}
 
   <label>Salary</label>
-  <input type="integer" name="income">
+  <input type="integer" name="income" value={{ form.income.default }}>
   {% for error in form.income.errors %}
   <small class="text-danger">{{ error }}</small>  
   {% endfor %}
 
   <label>Year started working</label>
-  <input type="integer" name="years">
-  {% for error in form.years.errors %}
+  <input type="integer" name="start_year" value={{ form.start_year.default }}>
+  {% for error in form.start_year.errors %}
   <small class="text-danger">{{ error }}</small>  
   {% endfor %}
+
+  <button class="btn btn-primary">Submit</button>
   
 {% endblock %}
 
-</body>
-</html>
