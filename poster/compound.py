@@ -1,33 +1,44 @@
+__all__ = ['pay_loss', 'cummulative']
+
+from pathlib import Path
 import pandas
 
-interest = pandas.read_csv('data\cpi_and_pay_increases.csv', index_col='year')
 
-def compound(timeseries, year):
+cpi_pay = pandas.read_csv(
+    Path('data', 'inflation_pay.csv'), index_col='year')
+
+
+def compound(ts):
     c = 1.
-    for v in timeseries['cpi'].loc[year:]:
-        c = c*(1+v/100)
+    for rate in ts:
+        c = c * (1 + rate / 100)
     return c
 
-def cummulative(timeseries, year, salary):
-    total = 0.
+
+cum_pay = compound(cpi_pay['pay_increase'].loc[2009:])
+cum_inflation = compound(cpi_pay['rpi'].loc[2009:])
+pay_loss = (cum_inflation / cum_pay - 1) * 100
+
+
+def check_year(year):
+    return min(max(year, 2009), 2020)
+
+
+def cummulative(year, salary):
+    year = check_year(year)
+    # reduce todays salary by previous pay rises
+    salary = salary / cum_pay
     c = 1.
-    adj_salary = []
-    salary_diff = []
-    timeseries = timeseries.sort_values(by=['year'])
-    #timeseries = timeseries.sort_values(by=['year']).loc[year:]
-    for index, row in timeseries.iterrows():
-        c = c*(1+row['cpi']/100)
-        print(c, c*salary-salary)
-        adj_salary.append(salary*(1+row['pay_increase']/100))
-        salary_diff.append(salary*(c-1))
-    timeseries['salary_diff'] = salary_diff
-    timeseries['adj_salary'] = adj_salary
-    total = timeseries.loc[year:]['salary_diff'].sum()
+    p = 1.
+    total = 0.
+    for y, d in cpi_pay.iterrows():
+        c = c * (1 + d['rpi'] / 100)
+        p = p * (1 + d['pay_increase'] / 100)
+        if y >= year:
+            total += (c - p) * salary
     return total
 
+
 if __name__ == '__main__':
-
-    print(compound(interest, 2009))
-    print(cummulative(interest, 2011, 40000))
-    
-
+    print(pay_loss)
+    print(cummulative(2009, 40000))

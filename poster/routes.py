@@ -4,6 +4,7 @@ from flask import redirect, url_for
 
 from .application import app
 from .forms import DataForm
+from .compound import pay_loss, cummulative
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -29,5 +30,7 @@ def result():
             return redirect(url_for('index'))
     return render_template(
         'result.html',
-        years=session['start_year'],
-        income=session['income'])
+        start_year=session['start_year'],
+        pay_loss=pay_loss,
+        salary_diff=(1 + pay_loss / 100) * session['income'],
+        total_loss=cummulative(session['start_year'], session['income']))

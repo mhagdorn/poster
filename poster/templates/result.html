@@ -3,6 +3,10 @@
 {% block content %}
 <h1>Result</h1>
 
-Your years of service are {{ years }}. Your income is {{ income }}.
+<ul>
+  <li>By 2020 higher education salaries have fallen by {{ '%0.2f' % pay_loss|float }}% when inflation (as measured by RPI) is taken into account relative to salaries in 2009</li>
+  <li>My annual salary in 2020 should have been £{{ '%0.2f' % salary_diff|float }} larger if it had kept up with inflation</li>
+  <li>Since I started work in {{ start_year }} I have lost £{{ '%0.2f' % total_loss|float }} in total due to inflation</li>
+</ul>
 
 {% endblock %}
