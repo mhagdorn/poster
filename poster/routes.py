@@ -34,3 +34,17 @@ def result():
         pay_loss=pay_loss,
         salary_diff=(1 + pay_loss / 100) * session['income'],
         total_loss=cummulative(session['start_year'], session['income']))
+
+
+@app.route('/poster')
+def poster():
+    for field in ['start_year', 'income']:
+        if field not in session:
+            print(f'error {field}')
+            return redirect(url_for('index'))
+    return render_template(
+        'poster/uoe.svg',
+        start_year=session['start_year'],
+        pay_loss=pay_loss,
+        salary_diff=(1 + pay_loss / 100) * session['income'],
+        total_loss=cummulative(session['start_year'], session['income']))
