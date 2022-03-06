@@ -2,20 +2,34 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="420mm"
    viewBox="0 0 297 420"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="uoe.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="poster.svg"
    inkscape:export-filename="C:\Users\hkallin\uoe.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata1065">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -26,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37014941"
-     inkscape:cx="717.27792"
-     inkscape:cy="275.5644"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.76658585"
+     inkscape:cx="1161.8361"
+     inkscape:cy="675.79776"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g516921" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -510,145 +524,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,19.563486,-54.877299)"
-       id="text122789"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect122791);fill:#15213a;fill-opacity:1;stroke:none"
-       x="1044.5312"
-       y="0"><tspan
-         x="27.015625"
-         y="76.705109"
-         id="tspan522079"><tspan
-           style="font-size:53.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522077">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="143.37174"
-         id="tspan522083"><tspan
-           style="font-size:53.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522081">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="197.61601"
-         id="tspan522087"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522085">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="248.38994"
-         id="tspan522091"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522089">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="299.16386"
-         id="tspan522095"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522093">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="349.93779"
-         id="tspan522099"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522097">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="400.71172"
-         id="tspan522103"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522101">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="451.48564"
-         id="tspan522107"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522105">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="502.25957"
-         id="tspan522111"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522109">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="553.03349"
-         id="tspan522115"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522113">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="603.80742"
-         id="tspan522119"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522117">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="654.58134"
-         id="tspan522127"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522121">Student numbers </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522123">up</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522125"> 60%.
-</tspan></tspan><tspan
-         x="27.015625"
-         y="705.35527"
-         id="tspan522131"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522129">Student fees up                       :
-</tspan></tspan><tspan
-         x="27.015625"
-         y="756.1292"
-         id="tspan522135"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522133">£1,820 to £9,250 for UK students; 
-</tspan></tspan><tspan
-         x="27.015625"
-         y="806.90312"
-         id="tspan522139"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522137">£11,050 to £19,800 for international students. 
-</tspan></tspan><tspan
-         x="27.015625"
-         y="857.67705"
-         id="tspan522147"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522141">Income from tution </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522143">rose</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522145"> 300%.
-</tspan></tspan><tspan
-         x="27.015625"
-         y="908.45097"
-         id="tspan522155"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522149">Profit per student </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522151">increased</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522153"> 50%.
-</tspan></tspan><tspan
-         x="27.015625"
-         y="959.2249"
-         id="tspan522159"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522157">
-</tspan></tspan><tspan
-         x="27.015625"
-         y="1009.9988"
-         id="tspan522163"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522161">
-</tspan></tspan></text>
-    <circle
-       style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path101885-1-3-0"
-       cx="21.83576"
-       cy="182.39302"
-       r="1.2636023" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -4532,9 +4407,8 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect67311);fill:#15213a;fill-opacity:1;stroke:none"><tspan
          x="109.41602"
          y="15.653854"
-         id="tspan522183"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522181">Since 2009</tspan></tspan></text>
+         id="tspan522183"
+         style="-inkscape-font-specification:'Crimson Pro, Normal';font-family:'Crimson Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:53.333334px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Since 2009</tspan></text>
     <g
        id="g12"
        transform="matrix(0.03527778,0,0,-0.03527778,57.813165,229.69669)">
@@ -4839,24 +4713,6 @@
          style="fill:#de1a34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.95585"
          id="path162" />
     </g>
-    <circle
-       style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path101885"
-       cx="21.836056"
-       cy="115.80064"
-       r="1.2636023" />
-    <circle
-       style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path101885-1"
-       cx="21.83576"
-       cy="129.42395"
-       r="1.2636023" />
-    <circle
-       style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path101885-1-3"
-       cx="21.83576"
-       cy="168.92033"
-       r="1.2636023" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,64.167274,-11.372421)"
@@ -4867,16 +4723,176 @@
          id="tspan522187"><tspan
            style="font-style:italic;font-weight:bold;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
            id="tspan522185">doubled</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,372.22611,29.062855)"
-       id="text266370"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect266372);fill:#de1a34;fill-opacity:1;stroke:none"><tspan
-         x="-1050.6797"
-         y="388.76714"
-         id="tspan522191"><tspan
-           style="font-style:italic;font-weight:bold;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"
-           id="tspan522189">massively</tspan></tspan></text>
+    <g
+       id="g2069">
+      <text
+         y="0"
+         x="1044.5312"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect122791);fill:#15213a;fill-opacity:1;stroke:none"
+         id="text122789"
+         transform="matrix(0.26458333,0,0,0.26458333,19.563486,-54.877299)"
+         xml:space="preserve"><tspan
+           id="tspan522079"
+           y="76.705109"
+           x="27.015625"><tspan
+             id="tspan522077"
+             style="font-size:53.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522083"
+           y="143.37174"
+           x="27.015625"><tspan
+             id="tspan522081"
+             style="font-size:53.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522087"
+           y="197.61601"
+           x="27.015625"><tspan
+             id="tspan522085"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522091"
+           y="248.38994"
+           x="27.015625"><tspan
+             id="tspan522089"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522095"
+           y="299.16386"
+           x="27.015625"><tspan
+             id="tspan522093"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522099"
+           y="349.93779"
+           x="27.015625"><tspan
+             id="tspan522097"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522103"
+           y="400.71172"
+           x="27.015625"><tspan
+             id="tspan522101"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522107"
+           y="451.48564"
+           x="27.015625"><tspan
+             id="tspan522105"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522111"
+           y="502.25957"
+           x="27.015625"><tspan
+             id="tspan522109"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522115"
+           y="553.03349"
+           x="27.015625"><tspan
+             id="tspan522113"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522119"
+           y="603.80742"
+           x="27.015625"><tspan
+             id="tspan522117"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522127"
+           y="654.58134"
+           x="27.015625"><tspan
+             id="tspan522121"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">Student numbers </tspan><tspan
+             id="tspan522123"
+             style="font-style:italic;font-weight:bold;fill:#de1a34">up</tspan><tspan
+             id="tspan522125"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"> 60%.
+</tspan></tspan><tspan
+           id="tspan522131"
+           y="705.35527"
+           x="27.015625"><tspan
+             id="tspan522129"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">Student fees up                       :
+</tspan></tspan><tspan
+           id="tspan522135"
+           y="756.1292"
+           x="27.015625"><tspan
+             id="tspan522133"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">£1,820 to £9,250 for UK students; 
+</tspan></tspan><tspan
+           id="tspan522139"
+           y="806.90312"
+           x="27.015625"><tspan
+             id="tspan522137"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">£11,050 to £19,800 for international students. 
+</tspan></tspan><tspan
+           id="tspan522147"
+           y="857.67705"
+           x="27.015625"><tspan
+             id="tspan522141"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">Income from tution </tspan><tspan
+             id="tspan522143"
+             style="font-style:italic;font-weight:bold;fill:#de1a34">rose</tspan><tspan
+             id="tspan522145"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"> 300%.
+</tspan></tspan><tspan
+           id="tspan522155"
+           y="908.45097"
+           x="27.015625"><tspan
+             id="tspan522149"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">Profit per student </tspan><tspan
+             id="tspan522151"
+             style="font-style:italic;font-weight:bold;fill:#de1a34">increased</tspan><tspan
+             id="tspan522153"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'"> 50%.
+</tspan></tspan><tspan
+           id="tspan522159"
+           y="959.2249"
+           x="27.015625"><tspan
+             id="tspan522157"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan><tspan
+           id="tspan522163"
+           y="1009.9988"
+           x="27.015625"><tspan
+             id="tspan522161"
+             style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">
+</tspan></tspan></text>
+      <circle
+         r="1.2636023"
+         cy="182.39302"
+         cx="21.83576"
+         id="path101885-1-3-0"
+         style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="1.2636023"
+         cy="115.80064"
+         cx="21.836056"
+         id="path101885"
+         style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="1.2636023"
+         cy="129.42395"
+         cx="21.83576"
+         id="path101885-1"
+         style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="1.2636023"
+         cy="168.92033"
+         cx="21.83576"
+         id="path101885-1-3"
+         style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect266372);fill:#de1a34;fill-opacity:1;stroke:none"
+         id="text266370"
+         transform="matrix(0.26458333,0,0,0.26458333,372.22611,29.062855)"
+         xml:space="preserve"><tspan
+           id="tspan522191"
+           y="388.76714"
+           x="-1050.6797"><tspan
+             id="tspan522189"
+             style="font-style:italic;font-weight:bold;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro'">massively</tspan></tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#15213a;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -4888,73 +4904,6 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';fill:#15213a;fill-opacity:1;stroke-width:0.264583"
          x="43.205902"
          y="211.89697">Over the same period...</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-15.345837,2.1166667)"
-       id="text323493"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect323495);fill:#15213a;fill-opacity:1;stroke:none"
-       x="922.05078"
-       y="0"><tspan
-         x="531.66797"
-         y="887.36284"
-         id="tspan522199"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522193">Staff wages </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522195">fell</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522197"> by 25.5% vs. inflation
-</tspan></tspan><tspan
-         x="283.97266"
-         y="938.13676"
-         id="tspan522203"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522201">(by 2009 values, my wage should be £10,975 higher. 
-</tspan></tspan><tspan
-         x="704.87109"
-         y="988.91069"
-         id="tspan522207"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522205">In total I've lost £74,000).
-</tspan></tspan><tspan
-         x="1114.6758"
-         y="1039.6846"
-         id="tspan522211"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522209">
-</tspan></tspan><tspan
-         x="413.85547"
-         y="1090.4585"
-         id="tspan522219"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522213">Staff pensions have been </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522215">cut</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522217"> by up to 45.5%.
-</tspan></tspan><tspan
-         x="342.87891"
-         y="1141.2325"
-         id="tspan522223"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522221">(I will lose at least £10,599 per year once I retire).
-</tspan></tspan><tspan
-         x="1114.6758"
-         y="1192.0064"
-         id="tspan522227"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522225">
-</tspan></tspan><tspan
-         x="177.89371"
-         y="1242.7803"
-         id="tspan522235"><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522229">42% of teaching is now done by staff on </tspan><tspan
-           style="font-style:italic;font-weight:bold;fill:#de1a34"
-           id="tspan522231">insecure contracts</tspan><tspan
-           style="font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';text-align:end;text-anchor:end"
-           id="tspan522233">.
-</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -4986,5 +4935,118 @@
     <g
        id="g516921"
        transform="matrix(0.06872398,0,0,0.06872398,406.47936,406.50149)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1874"><rect
+           id="rect1876"
+           width="525.70758"
+           height="391.34561"
+           x="1410.1487"
+           y="220.30095" /></flowRegion><flowPara
+         id="flowPara1878" /></flowRoot>    <g
+       id="g2015">
+      <g
+         transform="translate(0,-3.1504056e-6)"
+         id="g1971">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="32.098484"
+           y="233.62166"
+           id="text1882"><tspan
+             sodipodi:role="line"
+             id="tspan1880"
+             x="32.098484"
+             y="233.62166"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Staff wages <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de1a34;fill-opacity:1"
+   id="tspan1900">fell</tspan> by 25.5% vs. inflation</tspan><tspan
+             sodipodi:role="line"
+             x="32.098484"
+             y="243.52299"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan1884">(If my wage had kept up with inlfation it should be £10975 </tspan><tspan
+             sodipodi:role="line"
+             x="32.098484"
+             y="253.42433"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan1886">higher. In total I have lost £74000)</tspan></text>
+        <circle
+           style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path101885-1-3-0-3"
+           cx="27.496281"
+           cy="230.17021"
+           r="1.2636023" />
+      </g>
+      <g
+         transform="translate(0,-0.98086263)"
+         id="g1983">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="31.705744"
+           y="270.55219"
+           id="text1890"><tspan
+             sodipodi:role="line"
+             id="tspan1888"
+             x="31.705744"
+             y="270.55219"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Staff pensions have been <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de1a34;fill-opacity:1"
+   id="tspan1910">cut</tspan> by up to 45.5%.</tspan><tspan
+             sodipodi:role="line"
+             x="31.705744"
+             y="280.45352"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan1894">(I will lose at least £10599 per year once I reture)</tspan><tspan
+             sodipodi:role="line"
+             x="31.705744"
+             y="289.27298"
+             style="stroke-width:0.26458332px"
+             id="tspan1892" /></text>
+        <g
+           id="g1974">
+          <circle
+             r="1.2636023"
+             cy="267.10074"
+             cx="27.496281"
+             id="path101885-1-3-0-33"
+             style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <g
+         transform="translate(0,-3.8290809e-6)"
+         id="g1991">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="31.938288"
+           y="295.40262"
+           id="text1898"><tspan
+             sodipodi:role="line"
+             id="tspan1896"
+             x="31.938288"
+             y="295.40262"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">42% of teaching is now down by staff on <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de1a34;fill-opacity:1"
+   id="tspan1914"></tspan></tspan><tspan
+             sodipodi:role="line"
+             x="31.938288"
+             y="304.80746"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan1916"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de1a34;fill-opacity:1"
+               id="tspan1918">insecure contracts</tspan></tspan></text>
+        <circle
+           style="fill:#041e42;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path101885-1-3-0-7"
+           cx="27.496281"
+           cy="292.29633"
+           r="1.2636023" />
+      </g>
+    </g>
   </g>
 </svg>
