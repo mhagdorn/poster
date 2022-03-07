@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import IntegerField, validators
+from wtforms import IntegerField, StringField, validators
 
 
 class DataForm(FlaskForm):
@@ -14,3 +14,10 @@ class DataForm(FlaskForm):
         default=36000,
         validators=[validators.InputRequired(),
                     validators.NumberRange(0, 1000000)])
+
+
+class EmailForm(FlaskForm):
+    email = StringField("email",
+                        [validators.InputRequired(),
+                         validators.Email(
+                             "This field requires a valid email address")])

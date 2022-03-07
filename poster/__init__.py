@@ -1,4 +1,4 @@
-from .application import app
+from .application import app, celery  # noqa F401
 from .routes import *  # noqa F401 F403
 import logging
 

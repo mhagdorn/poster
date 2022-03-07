@@ -1,7 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Result</h1>
+<form action="{{ url_for('result') }}" enctype="multipart/form-data" method="POST">
+  {{ form.csrf_token }}
+
+  <h1>Result</h1>
 
 <ul>
   <li>By 2020 higher education salaries have fallen by {{ '%0.2f' % pay_loss|float }}% when inflation (as measured by RPI) is taken into account relative to salaries in 2009</li>
@@ -10,4 +13,12 @@
 </ul>
 
 Download the <a href="{{ url_for('poster') }}" download="poster.svg">poster</a> in svg format. You can use for example inkscape to edit the poster.
+  <p>
+    Enter your email address to receive a pdf copy of the poster.
+<input type="email" name="email">
+{% for error in form.email.errors %}
+<small class="text-danger">{{ error }}</small>
+{% endfor %}
+<button class="btn btn-primary">Submit</button>
+</p>
 {% endblock %}
