@@ -1,3 +1,6 @@
 requests
 flask
 flask-wtf
+flask-mail
+celery
+pandas
